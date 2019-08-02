@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Travelmantics</string>
+    <string name="enter_name">Enter Username</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="button_signup">Sign Up</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_login">Login</string>
+    <string name="travel_name">Hotel Name</string>
+    <string name="travel_price">Price</string>
+    <string name="travel_description">Place Description</string>
+    <string name="select_image">Select Image</string>
+    <string name="save_menu">Save</string>
+
 </resources>
